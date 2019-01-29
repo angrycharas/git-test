@@ -1,0 +1,9 @@
+#!/bin/bash
+read -ps "Enter Password " pass
+
+if[$pass = "sdsLABS"]
+then
+	echo"You are in!"
+fi
+
+
